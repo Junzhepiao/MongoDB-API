@@ -24,7 +24,7 @@ Our transaction database will be made up of two collections. A users collection 
 * JavaScript
 * Node.js
 * EJS
-* MongoDB, Mongoose
+* MongoDB, Mongoose, Express
 
 # Features
 * Get transactions.
